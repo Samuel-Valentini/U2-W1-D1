@@ -328,4 +328,14 @@ footer a {
   footer {
     padding-inline: 11rem;
   }
+
+  #corrarticles {
+    display: table;
+    margin-inline: auto;
+    width: 100%;
+  }
+
+  aside div {
+    display: table-cell;
+  }
 }
