@@ -338,4 +338,12 @@ footer a {
   aside div {
     display: table-cell;
   }
+
+  aside div a {
+    font-size: 1.4rem;
+  }
+
+  aside p {
+    margin-top: 0.6em;
+  }
 }
