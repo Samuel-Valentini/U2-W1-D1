@@ -207,3 +207,39 @@ footer {
 footer a {
   color: fuchsia;
 }
+
+@media screen and (min-width: 768px) {
+  body {
+    font-size: 1.9rem;
+  }
+  h1 {
+    font-size: 6.6rem;
+    line-height: 7.6rem;
+  }
+  h2 {
+    font-weight: bold;
+  }
+
+  table {
+    margin-inline: auto;
+    width: 70%;
+  }
+
+  input {
+    width: 70%;
+    padding: 1.7rem;
+  }
+
+  button {
+    padding-block: 1.7rem;
+    padding-inline: 2.5rem;
+  }
+
+  aside h2 {
+    font-size: 3.5rem;
+  }
+
+  footer {
+    font-size: 2rem;
+  }
+}
