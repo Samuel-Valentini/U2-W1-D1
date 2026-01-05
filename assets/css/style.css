@@ -337,6 +337,7 @@ footer a {
 
   aside div {
     display: table-cell;
+    width: 33%;
   }
 
   aside div a {
